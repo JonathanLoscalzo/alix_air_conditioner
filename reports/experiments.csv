@@ -1,0 +1,2 @@
+model,model_file,prediction_file,train_logloss,val_loglos,competition_score,observations,created_at,val_logloss
+RandomForestClassifier,../models/rf-20200616_1625.joblib,../data/results/rf_submit_20200616_1625.csv,0.06813297408997199,,0.49855,entrenado ,20200616_1625,0.24405737770917163
